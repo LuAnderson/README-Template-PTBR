@@ -3,6 +3,7 @@
 Breve descrição (preferencialmente em um paragrafo) do projeto abordando o porque da sua criação, objetivo ou ideia de utilização.
 
 > Exemplo:
+>
 > Este projeto visa ajudar diretamente os desenvolvedores, principalmente aqueles que não se sentem confortável com o inglês, na elaboração da descrição de seus projetos, fornecendo neste template uma base com tópicos, exemplos de como e o que colocar no README.md.
 
 ## Pré-requisitos
@@ -15,16 +16,62 @@ Informe aqui tudo que é obrigatório previamente já ter sido configurado/insta
 
 ## Instalação
 
-A pergunta a ser respondida aqui é: "Quais comandos precisará outra pessoa fazer para conseguir executar o seu projeto?"
+A pergunta a ser respondida aqui é: "Quais comandos precisará outra pessoa fazer para conseguir configurar o seu projeto?"
 
-(Recomendo configurar o seu projeto em uma outra pasta e anotar aqui todos os passos necessários para a execução)
+Recomendo configurar o seu projeto em uma outra pasta/ambiente e anotar aqui todos os passos necessários para a execução.
 
-> Exemplos:
+> Exemplo:
+>
+> Clone esse projeto em seu computador com o comando:
 > ```
-> yarn install
+> 	git clone [Url do seu repositório]
 > ```
+> Acesse a pasta do projeto seu terminal:
+> ```
+> 	cd [Nome da pasta do seu Projeto]
+> ```
+> Na pasta da aplicação em seu terminal, digite o seguinte comando:
+> ```
+> 	yarn install
+> ```
+
+## Execução
+
+Esse é talvez o tópico mais importante, faça com atenção.
+
+Através das informações especificadas nele, outras pessoas poderam visualizar e testar o funcionamento da sua aplicação.
+
+> Exemplo: 
+>
+> Após ter executado a instalação do projeto e ter aguardado a instalação das dependencias de desenvolvimento, execute o comando:
+> ```
+> 	yarn start
+> ```
+> A aplicação estará disponivel para visualização em seu navegador, caso isso não aconteça automaticamente abre o navegador no seguinte endereço: _localhost:3000_
+
+## Funcionalidades
+
+Imagine aqui que outra pessoa configurou e executou o seu projeto, apresente então as principais funcionalidade que seu projeto tem, dessa forma ela vai conseguir testar e usar o que foi desenvolvido.
+
+Você ao fazer isso evita que o usuário da aplicação, por não ter conhecimento, pule ou não veja o que seu projeto é capaz de fazer.
+
+> Exemplo: 
+>
+> Este projeto visa a funcionalidade de ser: 
+> - Template de README.md em PORTUGUÊS - PTBR;
+> - Artigo explicando e exemplificando tópicos de documentação;
+
+## Links
+
+Mesmo que as informações possar estar sendo apresentadas no seu código, pode ocorrer de algumas pessoas não terem total entendimento sobre o que foi proposto ou determinados termos tecnicos, você pode incluir um resumo dos links mais úteis para leitura dessas termos, por exemplo.
+
+> Exemplo: 
+> - [Guia de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+> - [Como formatar o Readme?](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8#:~:text=md%20%C3%A9%20um%20arquivo%20markdown,tags%20tamb%C3%A9m%20funcionam%2C%20veremos%20adiante.&text=Basta%20copiar%20o%20que%20o,e%20colar%20no%20README.md.)
+
 
 ## Contribuições
+
 Seu projeto pode receber contribuições da comunidade? Se sim, utilize esse tópico;
 aqui você coloca as informações resumidas de como a pessoa poderá o ajudar com o projeto.
 
@@ -43,12 +90,14 @@ Informe o nome das pessoas envolvidas no desenvolvimento do projeto e se quiser 
 
 Existem vários tipos de licença open souce, para saber qual condiz mais com o seu projeto e até mesmo entender mais detalhadamente, recomendo verificar os tipos no seguinte site: [Escolha uma Licença](http://escolhaumalicenca.com.br/)  
 
-> Exemplo: MIT License (MIT)
+> Exemplo: 
+> 
+> MIT License (MIT)
 
 ## Agradecimentos 
 
 Aqui, sinta-se a vontade a agradecer quem você desejar, tenha sido uma pessoa que a incentivou no projeto, inspirador, colaborador, amigos, etc.  
 
-> Exemplo: Comunidade Front <3
-
- *** Em desenvolvimento ***
+> Exemplo: 
+> 
+> Comunidade Front <3
