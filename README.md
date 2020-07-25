@@ -30,7 +30,7 @@ Recomendo configurar o seu projeto em uma outra pasta/ambiente e anotar aqui tod
 > ```
 > 	cd [Nome da pasta do seu Projeto]
 > ```
-> Na pasta da aplicação em seu terminal, digite o seguinte comando:
+> Já pasta da aplicação em seu terminal, digite o seguinte comando:
 > ```
 > 	yarn install
 > ```
@@ -43,15 +43,15 @@ Através das informações especificadas nele, outras pessoas poderam visualizar
 
 > Exemplo: 
 >
-> Após ter executado a instalação do projeto e ter aguardado a instalação das dependencias de desenvolvimento, execute o comando:
+> Após ter configurado o projeto e ter aguardado a instalação das dependencias de desenvolvimento, execute o comando:
 > ```
 > 	yarn start
 > ```
-> A aplicação estará disponivel para visualização em seu navegador, caso isso não aconteça automaticamente abre o navegador no seguinte endereço: _localhost:3000_
+> A aplicação estará disponível para visualização em seu navegador, caso isso não aconteça automaticamente abre o navegador no seguinte endereço: _localhost:3000_
 
 ## Funcionalidades
 
-Imagine aqui que outra pessoa configurou e executou o seu projeto, apresente então as principais funcionalidade que seu projeto tem, dessa forma ela vai conseguir testar e usar o que foi desenvolvido.
+Imagine aqui que outra pessoa configurou e executou o seu projeto, apresente então as principais funcionalidade que seu projeto tem e onde encontrar, dessa forma ela vai conseguir testar e usar tudo o que foi desenvolvido.
 
 Você ao fazer isso evita que o usuário da aplicação, por não ter conhecimento, pule ou não veja o que seu projeto é capaz de fazer.
 
@@ -64,7 +64,7 @@ Você ao fazer isso evita que o usuário da aplicação, por não ter conhecimen
 
 ## Testes
 
-Sua aplicação contempla testes? Se sim, explique como executar os testes automatizados para este sistema; você também pode anexar aqui os capturas de telas (prints) dos testes que você fez ou de um determinado comportamento da aplicação.
+Sua aplicação contempla testes? Se sim, explique como executar os testes automatizados para este sistema; você também pode anexar aqui as capturas de telas (prints) dos testes que você fez ou de um determinado comportamento da aplicação.
 
 Tipos de testes: 
 - Unitários
@@ -80,7 +80,7 @@ Dentre outros...
 
 ## Links
 
-Mesmo que as informações possar estar sendo apresentadas no seu código, pode ocorrer de algumas pessoas não terem total entendimento sobre o que foi proposto ou determinados termos tecnicos, você pode incluir um resumo dos links mais úteis para leitura dessas termos, por exemplo.
+Mesmo que as informações possam estar sendo apresentadas no seu código, pode ocorrer de algumas pessoas não terem total entendimento sobre o que foi proposto ou determinados termos técnicos, você pode incluir um resumo dos links mais úteis para leitura dessas termos, por exemplo.
 
 > Exemplo: 
 > - [Guia de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
@@ -99,13 +99,13 @@ aqui você coloca as informações resumidas de como a pessoa poderá o ajudar c
 
 Informe o nome das pessoas envolvidas no desenvolvimento do projeto e se quiser atribua as respectivas redes sociais para contato da comunidade;
 
-> Exemplo (Para criar uma aplicação com React):
-> - **Lucas Anderson Lima** - Idealizador e Desenvolvedor da Aplicação - [Github](https://github.com/LuAnderson) | [Site](http://lucasanderson.com.br/)
+> Exemplo (Deste projeto):
+> - **Lucas Anderson Lima** - Idealizador e Escritor da Documentação - [Github](https://github.com/LuAnderson) | [Site](http://lucasanderson.com.br/)
 
 
 ## Licença 
 
-Existem vários tipos de licença open souce, para saber qual condiz mais com o seu projeto e até mesmo entender mais detalhadamente, recomendo verificar os tipos no seguinte site: [Escolha uma Licença](http://escolhaumalicenca.com.br/)  
+Existem vários tipos de licença open souce, para saber qual condiz mais com o seu projeto e até mesmo entender mais detalhadamente, recomendo verificar os tipos no seguinte site: [Escolha uma Licença](http://escolhaumalicenca.com.br/).
 
 > Exemplo: 
 > 
@@ -120,5 +120,4 @@ Aqui, sinta-se a vontade a agradecer quem você desejar, tenha sido uma pessoa q
 > Comunidade Front <3
 
 ---
-
- -> Autor ❤ [Lucas Anderson Lima](http://lucasanderson.com.br/) <-
+Autor ❤ [Lucas Anderson Lima](http://lucasanderson.com.br/)
