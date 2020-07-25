@@ -61,6 +61,23 @@ Você ao fazer isso evita que o usuário da aplicação, por não ter conhecimen
 > - Template de README.md em PORTUGUÊS - PTBR;
 > - Artigo explicando e exemplificando tópicos de documentação;
 
+
+## Testes
+
+Sua aplicação contempla testes? Se sim, explique como executar os testes automatizados para este sistema; você também pode anexar aqui os capturas de telas (prints) dos testes que você fez ou de um determinado comportamento da aplicação.
+
+Tipos de testes: 
+- Unitários
+- Performance
+- Segurança
+- Regressão
+
+Dentre outros...
+> Exemplo de comando para execução de testes em uma aplicação:
+> ```
+> 	yarn test
+> ```
+
 ## Links
 
 Mesmo que as informações possar estar sendo apresentadas no seu código, pode ocorrer de algumas pessoas não terem total entendimento sobre o que foi proposto ou determinados termos tecnicos, você pode incluir um resumo dos links mais úteis para leitura dessas termos, por exemplo.
@@ -101,3 +118,7 @@ Aqui, sinta-se a vontade a agradecer quem você desejar, tenha sido uma pessoa q
 > Exemplo: 
 > 
 > Comunidade Front <3
+
+---
+
+ -> Autor ❤ [Lucas Anderson Lima](http://lucasanderson.com.br/) <-
