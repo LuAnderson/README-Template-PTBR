@@ -11,8 +11,8 @@ Breve descrição (preferencialmente em um paragrafo) do projeto abordando o por
 Informe aqui tudo que é obrigatório previamente já ter sido configurado/instalado no ambiente que será executado sua aplicação; exemplifique também como fazê-lo;
 
 > Exemplo (Para criar uma aplicação com React):
-> - **Node** com versão superior ou igual que 8.1 - [Node Donwload](https://nodejs.org/pt-br/download/)
-> - **NPM** com versão superior ou igual que 5.6 - [Npm Donwload](https://www.npmjs.com/package/download)
+> - **Node** com versão superior ou igual que 8.1 - [Node Download](https://nodejs.org/pt-br/download/)
+> - **NPM** com versão superior ou igual que 5.6 - [Npm Download](https://www.npmjs.com/package/download)
 
 ## Instalação
 
